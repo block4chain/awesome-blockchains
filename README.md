@@ -12,7 +12,12 @@
   - [Rust SGX SDK](https://github.com/apache/mesatee-sgx)
   - [Intel SGX Explained](https://drive.google.com/open?id=10b5x9N2NczAx4dtsnMH7wTdYSIfMJhKf)
   - [Intel SGX Developer Reference](https://drive.google.com/open?id=1hbLNTO7noyzdFBItjpeypKgoVM0dMNAu)
-
+## 零知识计算
+  - [zkSNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/)
+  - [Vitalik: how the technology behind zk-SNARKs works(一)](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627)
+  - [Vitalik: how the technology behind zk-SNARKs works(二)](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
+  - [[Vitalik: how the technology behind zk-SNARKs works(三)](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
+## 多方安全计算
 # 分片
 # 智能合约
 # 去中心化存储
