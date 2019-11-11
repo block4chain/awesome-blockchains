@@ -1,6 +1,7 @@
 # Bitcoin
 # Ethereum
 # 共识
+  - [cbc-caspter](https://raw.githubusercontent.com/cbc-casper/cbc-casper-paper/master/cbc-casper-paper-draft.pdf)
 # 跨链
   - [区块链的跨链技术介绍完整版](https://blog.csdn.net/elwingao/article/details/53410750)
 # 侧链
@@ -20,6 +21,8 @@
 ## 多方安全计算
 # 分片
 # 智能合约
+# 身份
+  - [blockchain-identity](https://github.com/ChihChengLiang/blockchain-identity)
 # 去中心化存储
 # 项目
 ## [Btc Relay](http://btcrelay.org)
