@@ -29,3 +29,5 @@
 ## [RootStock](https://www.rsk.co/)
 ## [Polkadot](https://polkadot.network/)
 ## [Cosmos](https://cosmos.network/)
+# 资料:
+ - [这33篇区块链必读论文, 读过5篇以上的竟不到1%](https://msd.misuland.com/pd/3255817963235706622)
