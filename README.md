@@ -3,7 +3,9 @@
 # 共识
   - [cbc-caspter](https://raw.githubusercontent.com/cbc-casper/cbc-casper-paper/master/cbc-casper-paper-draft.pdf)
 # 跨链
+  - [跨链技术研究报告：区块链互联的桥梁](https://www.8btc.com/article/316778)
   - [区块链的跨链技术介绍完整版](https://blog.csdn.net/elwingao/article/details/53410750)
+  - [跨链通信：区块链技术发展的新趋势](https://www.leiphone.com/news/201702/K1XXt7r6fA8wzDm9.html)
 # 侧链
   - [巴比特-侧链](https://www.8btc.com/p/sidechain)
 # 隐私计算
