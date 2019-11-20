@@ -2,6 +2,7 @@
 # Ethereum
 # Layer-2
   - [awesome-layer-2](https://github.com/Awesome-Layer-2/awesome-layer-2)
+  - [2019 Blockchain Layer 2 Solution Review](https://hackernoon.com/2019-blockchain-layer-2-solution-review-d00385147396)
 # 共识
   - [cbc-caspter](https://raw.githubusercontent.com/cbc-casper/cbc-casper-paper/master/cbc-casper-paper-draft.pdf)
 # 跨链
